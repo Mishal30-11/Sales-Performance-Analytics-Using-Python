@@ -1,6 +1,3 @@
-# Sales-Performance-Analytics-Using-Python
-Sales Performance Analytics is a Python-based data analysis project designed to uncover valuable business insights from sales data. This project focuses on identifying sales trends, best-selling products, high-performing cities, and optimal advertisement timings.
-
 # 📊 Sales Performance Analytics Using Python
 
 ## 📌 Project Overview
@@ -102,5 +99,6 @@ This project is inspired by publicly available sales datasets and online tutoria
 
 ## 🎥 Project Walkthrough Video
 
-[![Watch the video](https://img.youtube.com/vi/eMOA1pPVUc4/0.jpg)](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+https://youtu.be/eMOA1pPVUc4?si=ADU3OlHC1onlKkfm
+
 
