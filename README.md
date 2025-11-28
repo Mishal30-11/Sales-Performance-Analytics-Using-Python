@@ -101,4 +101,5 @@ This project is inspired by publicly available sales datasets and online tutoria
 
 https://youtu.be/eMOA1pPVUc4?si=ADU3OlHC1onlKkfm
 
+🎥 <a href="https://youtu.be/eMOA1pPVUc4?si=ADU3OlHC1onlKkfm" target="_blank">Project Tutorial Video</a>
 
